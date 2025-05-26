@@ -1,6 +1,13 @@
-# 🤖 Trimonu Addons
+# ⚠️ Notice
 
-**Notice: Please be careful on GitHub, many people since my last GitHub account was deleted due to a loss of email access have been attempting to larp as me, I've made this new GitHub to ensure you guys don't get ratted, if you do find a fake user and or repository please report it to my discord and I will report and further investigate into getting it removed off of discord to keep our community safe.**
+Please be careful on GitHub. Since my **previous GitHub account was deleted** due to a loss of email access, **many impersonators** have been trying to LARP as me and spread **fake/ratted** repositories.
+
+I've created this **new GitHub** to ensure your safety.
+If you find a **fake user or repository**, report it to me via **Discord**. I will take immediate steps to **report and investigate**, and work toward getting it removed from Discord to help keep our community protected.
+
+Stay safe, and thank you for your continued support! 💙
+
+# 🤖 Trimonu Addons
 
 **Trimonu Addons** is a Hypixel Skyblock mod designed to enhance your Dungeons experience. It is used by virtually all high level dungeon players, notably Hayacyaa, Tmoe, yarns, etc
 
