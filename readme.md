@@ -26,7 +26,7 @@
 ## 📦 Installation
 
 1. Make sure you have [Chatriggers](https://chattriggers.com/) installed.  
-2. Download the latest release of Trimonu Addons from the [Releases](https://github.com/Trimonw/TrimonuAddons/releases/tag/skyblock-dungeons-enhancer) page.  
+2. Download the latest release of Trimonu Addons from the [Releases](https://github.com/Tmoe-6I7/Trimonu-Addons/releases/tag/TrimonuAddons) page.  
 3. Extract this zip into your /config/ChatTriggers/modules folder.
 4. Launch Minecraft and enjoy!
 
