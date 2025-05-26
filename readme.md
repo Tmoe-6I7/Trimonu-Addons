@@ -1,6 +1,7 @@
 # ⚠️ Notice
 
 Please be careful on GitHub. Since my **previous GitHub account was deleted** due to a loss of email access, **many impersonators** have been trying to LARP as me and spread **fake/ratted** repositories.
+Known Malicious Repositorys // Owners; CyaniQT, Trimonw, iliketomeow333 and anyone who is starring either "CyaniQT" or "Trimonw"
 
 I've created this **new GitHub** to ensure your safety.
 If you find a **fake user or repository**, report it to me via **Discord**. I will take immediate steps to **report and investigate**, and work toward getting it removed from Discord to help keep our community protected.
